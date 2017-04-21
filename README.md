@@ -1,0 +1,2 @@
+# aimtux-best-config
+aimtuxed
